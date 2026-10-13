@@ -1,0 +1,165 @@
+body {
+  background-color: lightgray;
+}
+.header {
+  background-color: rgb(24, 24, 101);
+  text-align: center;
+  width: 70%;
+  margin: 20px auto;
+  border-radius: 10px;
+  color: white;
+  padding-top: 15px;
+  padding-bottom: 30px;
+}
+.header a {
+  color: white;
+  background-color: rgb(47, 47, 132);
+  padding: 15px;
+  margin: 20px 20px;
+  border-radius: 20px;
+  text-decoration: none;
+}
+.header p {
+  margin-bottom: 50px;
+  color: rgb(119, 119, 206);
+  font-size: 20px;
+}
+.my {
+  background-color: white;
+  width: 70%;
+  margin: 20px auto;
+  border-radius: 10px;
+  padding-top: 15px;
+  padding-bottom: 30px;
+}
+.my img {
+  border-radius: 50%;
+  width: 15%;
+  float: left;
+  padding-left: 20px;
+}
+.my h2 {
+  padding-left: 20px;
+  color: rgb(24, 24, 101);
+}
+.my .text {
+  float: left;
+  margin-left: 40px;
+}
+.clear {
+  clear: both;
+}
+.my .text p span {
+  color: blue;
+  font-weight: bold;
+}
+.my hr {
+  width: 95%;
+}
+.my .text a {
+  background-color: rgb(24, 24, 101);
+  text-decoration: none;
+  color: white;
+  padding: 15px;
+  border-radius: 20px;
+}
+.my .text p {
+  margin-bottom: 30px;
+}
+.my-skills {
+  background-color: white;
+  width: 70%;
+  margin: 20px auto;
+  border-radius: 10px;
+  padding-top: 15px;
+  padding-bottom: 30px;
+}
+.my-skills h2 {
+  padding-left: 20px;
+  color: rgb(24, 24, 101);
+}
+.my-skills hr {
+  width: 95%;
+}
+.my-skills .pragr {
+  padding-left: 20px;
+}
+.my-skills .contener {
+  width: 80%;
+  margin: auto;
+}
+.my-skills .item {
+  width: 25%;
+  background-color: rgb(231, 238, 241);
+  border-radius: 20px;
+  float: left;
+  box-sizing: border-box;
+  padding: 12px;
+  border: 10px solid white;
+}
+/* .my-skills .item p {
+  padding-left: 0;
+} */
+.my-skills .item h3 {
+  color: rgb(24, 24, 101);
+}
+.experience {
+  background-color: white;
+  width: 70%;
+  margin: 20px auto;
+  border-radius: 10px;
+  padding-top: 15px;
+  padding-bottom: 30px;
+}
+.experience h2 {
+  padding-left: 20px;
+  color: rgb(24, 24, 101);
+}
+.experience hr {
+  width: 95%;
+}
+.experience .item {
+  background-color: rgb(239, 238, 238);
+  width: 90%;
+  margin: 10px auto;
+  border-left: solid 5px rgb(24, 24, 101);
+  padding: 20px;
+  border-radius: 20px;
+}
+.experience .item img {
+  width: 13%;
+  border-radius: 20px;
+  float: left;
+  margin-right: 30px;
+}
+.experience .item h4 {
+  color: rgb(24, 24, 101);
+}
+.contact-my {
+  background-color: rgb(24, 24, 101);
+  width: 70%;
+  margin: 20px auto;
+  border-radius: 10px;
+  padding-top: 15px;
+  padding-bottom: 30px;
+}
+.contact-my h2 {
+  padding-left: 20px;
+  color: white;
+}
+.contact-my hr {
+  width: 95%;
+}
+.contact-my p {
+  padding-left: 20px;
+  color: white;
+  margin-bottom: 40px;
+}
+.contact-my a {
+  color: white;
+  background-color: rgb(47, 47, 132);
+  padding: 15px;
+  margin: 20px 20px;
+  border-radius: 20px;
+  text-decoration: none;
+}
